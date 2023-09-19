@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+:root{
+    --btn1-color: #4d96a9;
+    --btn2-3-color: #855fb1;
+    --second-btn1-color: #8fe3f9;
+    --second-btn2-3-color: #d9b8ff;
+    --p-color:#87879d;
+    --h1-color: #28283d;
+
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    
+}
