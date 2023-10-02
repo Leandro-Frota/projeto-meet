@@ -1,5 +1,5 @@
 # projeto-meet
-Esse projeto esta sendo desencolvido na Escola de Ensino de habilidades digitais Digital College.
+Esse projeto esta sendo desencolvido na Escola de Ensino de habilidades digitais Digital College. Resposnvividade para outas telas em desenvolvimento.
 
 ## Visão Geral
 
